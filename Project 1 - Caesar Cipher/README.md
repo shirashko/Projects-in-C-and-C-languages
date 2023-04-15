@@ -27,4 +27,5 @@ Please ensure that your code follows the coding standards and style guidelines o
 #### Conclusion
 Thank you for your interest in my project! I hope that you find it both useful and enjoyable to use.
 
-![](https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Caesar3.svg/1200px-Caesar3.svg.png =250x250)
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Caesar3.svg/1200px-Caesar3.svg.png">
