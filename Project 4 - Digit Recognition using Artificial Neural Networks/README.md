@@ -1,7 +1,7 @@
 # Project 4 - Digit Recognition using Artificial Neural Networks
 digit recognition system developed using Artificial Neural Networks (ANN)
 
-<img src="https://www.researchgate.net/profile/Hugo-Larochelle/publication/200744481/figure/fig1/AS:668968306098181@1536505881710/Samples-from-the-MNIST-digit-recognition-data-set-Here-a-black-pixel-corresponds-to-an.png" width= "250" height= "250">
+<img src="https://user-images.githubusercontent.com/26801020/34263592-033d51e4-e696-11e7-8937-71fc86eea3c2.png" width= "250" height= "250">
 
 ## Table Of Contents
 - [Introduction](#introduction)
