@@ -8,7 +8,6 @@ A movie recommendation system built using linear algebra techniques.
 - [Usage](#usage)
 - [Contributing](#contributing)
 - [License](#license)
-- [Conclusion](#conclusion)
 
 ### Introduction
 This is the fifth exercise I have completed in Huji's Programming Workshop in C & C++ course.
@@ -27,9 +26,5 @@ Please ensure that your code follows the coding standards and style guidelines o
 
 ### License
 This project is released under the [MIT](https://choosealicense.com/licenses/mit/) License. See the LICENSE file for details.
-
-### Conclusion
-Thank you for your interest in my project! I hope that you find it both useful and enjoyable to use.
-
 
 ![Alt Text](https://media0.giphy.com/media/Bzebpz5rnyBb2/giphy.gif?cid=ecf05e47xupxk3un44nebtjdtgwybc9gdfc0cdh0wbzx9jti&rid=giphy.gif&ct=g)

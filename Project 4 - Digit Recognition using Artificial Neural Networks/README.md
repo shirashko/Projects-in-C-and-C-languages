@@ -3,13 +3,11 @@ digit recognition system developed using Artificial Neural Networks (ANN)
 
 <img src="https://www.researchgate.net/profile/Hugo-Larochelle/publication/200744481/figure/fig1/AS:668968306098181@1536505881710/Samples-from-the-MNIST-digit-recognition-data-set-Here-a-black-pixel-corresponds-to-an.png" width= "250" height= "250">
 
-
 ## Table Of Contents
 - [Introduction](#introduction)
 - [Usage](#usage)
 - [Contributing](#contributing)
 - [License](#license)
-- [Conclusion](#conclusion)
 
 ### Introduction
 This is the fourth exercise I have completed in Huji's Programming Workshop in C & C++ course.
@@ -28,7 +26,4 @@ Please ensure that your code follows the coding standards and style guidelines o
 
 ### License
 This project is released under the [MIT](https://choosealicense.com/licenses/mit/) License. See the LICENSE file for details.
-
-### Conclusion
-Thank you for your interest in my project! I hope that you find it both useful and enjoyable to use.
 

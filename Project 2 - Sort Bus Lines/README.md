@@ -8,7 +8,6 @@ The goal of this project is to provide users with the most efficient bus travel 
 - [Usage](#usage)
 - [Contributing](#contributing)
 - [License](#license)
-- [Conclusion](#conclusion)
 
 ### Introduction
 This is the second exercise I have completed in Huji's Programming Workshop in C & C++ course.
@@ -27,6 +26,3 @@ Please ensure that your code follows the coding standards and style guidelines o
 
 ### License
 This project is released under the [MIT](https://choosealicense.com/licenses/mit/) License. See the LICENSE file for details.
-
-### Conclusion
-Thank you for your interest in my project! I hope that you find it both useful and enjoyable to use.

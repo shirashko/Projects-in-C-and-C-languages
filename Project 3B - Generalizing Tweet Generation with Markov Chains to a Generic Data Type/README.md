@@ -8,10 +8,9 @@ Generalize the tweet generation algorithm I completed in Project 3A to work with
 - [Usage](#usage)
 - [Contributing](#contributing)
 - [License](#license)
-- [Conclusion](#conclusion)
 
 ### Introduction
-This is the fourth exercise I have completed in Huji's Programming Workshop in C & C++ course.
+This is the etend of exercise 3A, which I have completed in Huji's Programming Workshop in C & C++ course.
 The primary goal of this project is to generalize the tweet generation algorithm to work with a generic data type, rather than being limited to a specific text source. This allows the user to apply the algorithm to any type of data, and generate new content based on the patterns and probabilities found within that data. Overall, this project seeks to expand the versatility and utility of the original tweet generation algorithm.
 ### Usage
 To run this project on your personal machine, follow these steps:
@@ -26,7 +25,3 @@ Please ensure that your code follows the coding standards and style guidelines o
 
 ### License
 This project is released under the [MIT](https://choosealicense.com/licenses/mit/) License. See the LICENSE file for details.
-
-### Conclusion
-Thank you for your interest in my project! I hope that you find it both useful and enjoyable to use.
-

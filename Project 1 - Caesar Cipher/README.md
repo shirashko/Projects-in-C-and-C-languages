@@ -8,7 +8,6 @@ Encrypt and decrypt text using the Caesar cipher
 - [Usage](#usage)
 - [Contributing](#contributing)
 - [License](#license)
-- [Conclusion](#conclusion)
 
 ### Introduction
 This is the first exercise I have completed in Huji's Programming Workshop in C & C++ course.
@@ -29,8 +28,5 @@ Please ensure that your code follows the coding standards and style guidelines o
 
 ### License
 This project is released under the [MIT](https://choosealicense.com/licenses/mit/) License. See the LICENSE file for details.
-
-### Conclusion
-Thank you for your interest in my project! I hope that you find it both useful and enjoyable to use.
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Caesar3.svg/1200px-Caesar3.svg.png" width= "350" height= "250">
