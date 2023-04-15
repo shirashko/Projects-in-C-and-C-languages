@@ -28,4 +28,4 @@ Please ensure that your code follows the coding standards and style guidelines o
 Thank you for your interest in my project! I hope that you find it both useful and enjoyable to use.
 
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Caesar3.svg/1200px-Caesar3.svg.png">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Caesar3.svg/1200px-Caesar3.svg.png" width= "350" height= "250">
