@@ -1,6 +1,8 @@
 ## Project 1 - Caesar Cipher
 Encrypt and decrypt text using the Caesar cipher 
 
+<img src="https://gkaccess.com/wp-content/uploads/2020/01/Caesar_Cipher_GateKeeper_security_compliance_proximity_authentication_2fa_mfa-scaled.jpg" width= "350" height= "250">
+
 ### Table Of Contents
 - Introduction
 - Usage
@@ -26,6 +28,5 @@ Please ensure that your code follows the coding standards and style guidelines o
 
 #### Conclusion
 Thank you for your interest in my project! I hope that you find it both useful and enjoyable to use.
-
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Caesar3.svg/1200px-Caesar3.svg.png" width= "350" height= "250">
