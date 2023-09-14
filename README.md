@@ -3,13 +3,6 @@ As a student of Computer Science at the Hebrew University of Jerusalem, I was re
 
 <img src="https://www.educative.io/v2api/editorpage/5295407815458816/image/4810048073629696" width= "400" height= "250">
 
-## Table Of Contents
-- [Introduction](#introduction)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
-
-
 ## Introduction
 - Exercise 1 - Cipher » An implementation of the Caesar Cipher encryption & decryption in C 
 
@@ -25,8 +18,3 @@ As a student of Computer Science at the Hebrew University of Jerusalem, I was re
 
 - Exercise 6 - HashMap & Dictionary » An implementation of HashMap and Dictionary data structures in C++.
 
-### Contributing
-You are invited to submit pull requests.
-
-### License
-This project is released under the [MIT](https://choosealicense.com/licenses/mit/) License. See the LICENSE file for details.
